@@ -10,10 +10,10 @@
 <br>
 <h3 align="left">Languages:</h3>
 <p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="python" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="python" width="80" height="80"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" alt="javascript" width="80" height="80"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="html5" width="80" height="80"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="css3" width="80" height="80"/> </a> 
 
 
 </p>
