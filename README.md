@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=benjamin-michels&label=Profile%20views&color=0e75b6&style=flat" alt="benjamin-michels" /> </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="300" height="300"/>
 </div>
 
 
